@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-* Importing Emails
+# Importing Emails
 - [ ] Click on Contacts and select Contacts from the dropdown
 - [ ] Select Import
 - [ ] Select Start an import
@@ -19,7 +19,7 @@ assignees: ''
 - [ ] For unmatched columns, select Don't import column. Click next
 - [ ] Check both boxes and click FInish Import
 
-* Sending Emails
+# Sending Emails
 - [ ] Click on Marketing and select Emails from the dropdown
 - [ ] Clone previously create email
 - [ ] Edit title to be the date you are sending it and select Clone
@@ -29,7 +29,7 @@ assignees: ''
 - [ ] Select Review and Send
 - [ ] Review Content and hit send
 
-* Deleting Emails
+# Deleting Emails
 - [ ] Click on Contacts and select Contacts from the dropdown
 - [ ] Click on all the checkboxes for the contacts you no longer want. Select Delete
 - [ ] Type in the number of contacts you want to delete as a confirmation. Then click on Delete
