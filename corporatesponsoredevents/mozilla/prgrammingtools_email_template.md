@@ -2,7 +2,7 @@
 
 ![](https://github.com/bitprj/Marketing/blob/master/corporatesponsoredevents/mozilla/fbevent.png)
 
-# Non-CS Majors:
+# Non-CS Major Advisors:
 
 Bit Project is partnering with Mozilla and Internet of Things Entrepreneur, Kathy Giori, for an interactive workshop to explore programming improvement tools and WebThings, a Mozilla software framework to tie physical computing data to the web.
 
@@ -16,7 +16,7 @@ And finally, this webinar will briefly introduce an excellent software framework
 
 RSVP Now: https://www.facebook.com/events/535012023887386/
 
-# CS Majors:
+# CS Major Advisors:
 
 Bit Project is partnering with Mozilla and Internet of Things Entrepreneur, Kathy Giori, for an interactive workshop to explore programming improvement tools and WebThings, a Mozilla software framework to tie physical computing data to the web.
 
