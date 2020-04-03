@@ -1,6 +1,6 @@
 # Include in all emails: 
 
-![](Marketing/corporatesponsoredevents/mozilla/fbevent.png)
+![](https://github.com/bitprj/Marketing/blob/master/corporatesponsoredevents/mozilla/fbevent.png)
 
 # Non-CS Majors:
 
