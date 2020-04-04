@@ -4,6 +4,8 @@
 
 # Non-CS Major Advisors:
 
+My name is Iris Zhong, a representative of the student-run organization Bit Project. Our mission is to make technical education accessible to all students. We strive to democrative technical education so that anyone in the United States has an equal opportunity to enter the tech world. Our team of student developers have created various STEM curriculum, partnering with companies such as Twitter and Postman to develop some them. 
+
 Bit Project is partnering with Mozilla and Internet of Things Entrepreneur, Kathy Giori, for an interactive workshop to explore programming improvement tools and WebThings, a Mozilla software framework to tie physical computing data to the web.
 
 Jumping straight into a new text-based programming language, as a means to solve even a simple technical problem, can be a daunting task, because you have to learn syntax and procedural aspects of the language before it becomes an effective tool. 
@@ -17,6 +19,8 @@ And finally, this webinar will briefly introduce an excellent software framework
 RSVP Now: https://www.facebook.com/events/535012023887386/
 
 # CS Major Advisors:
+
+My name is Iris Zhong, a representative of the student-run organization Bit Project. Our mission is to make technical education accessible to all students. We strive to democrative technical education so that anyone in the United States has an equal opportunity to enter the tech world. Our team of student developers have created various STEM curriculum, partnering with companies such as Twitter and Postman to develop some them. 
 
 Bit Project is partnering with Mozilla and Internet of Things Entrepreneur, Kathy Giori, for an interactive workshop to explore programming improvement tools and WebThings, a Mozilla software framework to tie physical computing data to the web.
 
