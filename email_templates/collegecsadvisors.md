@@ -1,3 +1,10 @@
+## Subject:
+Opportunity for Minnesota State University-Mankato Students to Contribute to Open Source
+
+## Email:
+*[Make sure to replace name, year, major, and signature]*
+
+
 Hi,
 
 My name is --- and I’m currently a --- year --- major UC Davis student. I am reaching out to you on behalf of Bit Project (bitproject.org) , which is an open source, fully remote student initiative to make developer education more accessible to prepare students to enter the tech industry.
