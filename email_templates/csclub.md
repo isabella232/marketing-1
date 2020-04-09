@@ -6,5 +6,5 @@ We work with leading companies like MongoDB, Twitter, and Postman to develop cur
 
 Please let me know if you’d be interested in discussing this further and we can set up a Zoom meeting.
 
-Thanks,
+Thanks,  
 [NAME]
