@@ -1,3 +1,10 @@
+# CS Clubs Template
+**Contact using HubSpot Chrome Extension**
+
+**Make sure to add LOG and TRACK THE EMAIL**
+
+# Copy and send the email below:
+
 Hi,
 
 My name is [NAME] and I am a Growth Marketing Partner at a UC Davis student-run organization called Bit Project (bitproject.org). We work to democratize STEM education for all students. We are currently looking to partner with student organizations like yours to create and distribute open-source technical educational resources to students from around the world.
