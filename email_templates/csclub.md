@@ -3,6 +3,8 @@
 
 **Make sure to add LOG and TRACK the email**
 
+# Subject: UC Davis Tech Ed Club
+
 # Copy and send the email below:
 
 Hi,
