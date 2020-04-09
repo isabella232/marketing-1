@@ -1,7 +1,7 @@
 # CS Clubs Template
 **Contact using HubSpot Chrome Extension**
 
-**Make sure to add LOG and TRACK THE EMAIL**
+**Make sure to add LOG and TRACK the email**
 
 # Copy and send the email below:
 
