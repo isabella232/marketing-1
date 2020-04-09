@@ -3,7 +3,7 @@
 
 **Make sure to add LOG and TRACK the email**
 
-# Subject: UC Davis Tech Ed Club
+# Subject: Opportunity for Students to Get Involved in Open Source
 
 # Copy and send the email below:
 
