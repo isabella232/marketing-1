@@ -35,4 +35,4 @@ Teach students how to effectively send and receive information through communica
 To effectively interact with passive students and to get them actively using communication skills.
 
 ## Reports to
-
+Chair of communication/humanities department
