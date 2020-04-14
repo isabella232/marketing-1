@@ -9,7 +9,7 @@ Casey Mendez
 22-29
 
 ## Education
-Pursuring Masters/PhD
+Pursuing Masters/PhD
 
 ## Industry
 Data Science/Stats, Education
@@ -31,5 +31,6 @@ Learn data science in a more hands-on manner
 ## Job responsibilities
 
 ## Biggest Challenges
+Not sure about how to make the curriculum more interactive as a student
 
 ## Reports to
