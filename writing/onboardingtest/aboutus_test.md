@@ -1,0 +1,2 @@
+# About Us
+We make software engineering and computer science education accessible to students from nontraditional learning environments. Using our curriculum, we take students with minimal experience in computer science to a full-fledged software developer with a diverse coding portfolio using our curriculum. We collaborate with leading companies and developers to create interactive, fun technical content that use industry standard technologies and developer tools.
