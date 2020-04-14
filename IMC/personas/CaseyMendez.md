@@ -26,6 +26,7 @@ Email, Twitter, Facebook, Instagram, LinkedIn, Reddit
 Email, Twitter
 
 ## Goals/Objectives
+Learn data science in a more hands-on manner
 
 ## Job responsibilities
 
