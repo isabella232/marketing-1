@@ -3,9 +3,10 @@
 # Profile
 
 ## Name
-
+Rebecca Roberson
 
 ## Age
+30-50
 
 ## Education
 Statistics
@@ -14,13 +15,11 @@ Statistics
 Education
 
 ## Occuptation
-Professor
 
 ## Social Networks
-Facebook
+Facebook, LinkedIn
 
 # Communication
-LinkedIn, Email
 
 ## Preferred method of communications
 Email
