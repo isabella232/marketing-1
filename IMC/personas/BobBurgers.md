@@ -18,7 +18,7 @@ Education
 Professor
 
 ## Social Networks
-Facebook,
+Facebook, Twitter, LinkedIn
 
 # Communication
 
@@ -26,7 +26,7 @@ Facebook,
 Email, LinkedIn
 
 ## Goals/Objectives
-
+Get students to be more interactive and be able to use and apply their communicative skills in real life.
 
 ## Job responsibilities
 
