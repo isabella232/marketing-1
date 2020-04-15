@@ -29,8 +29,10 @@ Email, Twitter
 Learn data science in a more hands-on manner
 
 ## Job responsibilities
+Completing assignments, understand curriculum that is being taught by professors, studying
 
 ## Biggest Challenges
 Not sure about how to make the curriculum more interactive as a student
 
 ## Reports to
+Professors, Academic advisors
