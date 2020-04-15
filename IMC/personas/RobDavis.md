@@ -27,6 +27,9 @@ Facebook, LinkedIn, Twitter, Email
 
 ## Goals/Objectives
 - Increase interactive nature of classes and encourage students to explore hands-on education.
+- To make learning data science less frustrating
+- Find a new teaching method that works better for themselves and their students
+- Motivate students to explore data science outside of academics
 
 ## Job responsibilities
 - Teaching Data Science
