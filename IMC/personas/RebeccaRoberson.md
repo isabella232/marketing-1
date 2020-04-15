@@ -26,9 +26,13 @@ Facebook, LinkedIn
 Email
 
 ## Goals/Objectives
+To be able to get students to apply what they learned and be able to use it in real life
+Be able to enhance student's knowledge about statistics/data analysis
 
 ## Job responsibilities
+Teach students the basic methods of organizing and graphing data
 
 ## Biggest Challenges
+To make sure that students are confident to what they learned in class and use it in real life
 
 ## Reports to
