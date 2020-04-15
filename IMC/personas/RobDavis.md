@@ -18,21 +18,27 @@ Data Science Education
 Professor
 
 ## Social Networks
-N/A
+Facebook, LinkedIn, Twitter, Email
 
 # Communication
 
 ## Preferred method of communications
-- Email
+- Email, LinkedIn
 
 ## Goals/Objectives
 - Increase interactive nature of classes and encourage students to explore hands-on education.
 
 ## Job responsibilities
 - Teaching Data Science
+- Ensuring students are understanding the material being taught
+- Formulating exams that fit the course material
+- Holding meetings with other professors regarding course material
 
 ## Biggest Challenges
 - Don't have time/resources to come up with innovative education opportunities
+- May not be as tech savvy due to age and large workload
+- Not as motivated to innovate teaching method because they may have been teaching for many years
+- May be hard to motivate students to use new learning methods
 
 ## Reports to
 - University admin
