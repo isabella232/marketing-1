@@ -37,3 +37,4 @@ Not sure if her teaching methods are effective or not
 To make sure that students are confident to what they learned in class and use it in real life
 
 ## Reports to
+Statistics Department Chair
