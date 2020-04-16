@@ -27,6 +27,7 @@ Email
 
 ## Goals/Objectives
 -To be able to get students to apply what they learned and be able to use it in real life
+
 -Be able to enhance student's knowledge about statistics/data analysis
 
 ## Job responsibilities
@@ -34,7 +35,8 @@ Email
 
 ## Biggest Challenges
 -Not sure if her teaching methods are effective or not
+
 -To make sure that students are confident to what they learned in class and use it in real life
 
 ## Reports to
--Statistics Department Chair
+Statistics Department Chair
