@@ -2,7 +2,7 @@
 name: Illustration Request
 about: Request for Custom Illustration for your Multimedia Content
 title: "[Illustration Request]"
-labels: design
+labels: ''
 assignees: lillyp3, rochelledai
 
 ---

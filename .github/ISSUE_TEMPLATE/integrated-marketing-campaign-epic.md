@@ -2,7 +2,7 @@
 name: Integrated Marketing Campaign Epic
 about: Epic for Integrated Marketing Campaign
 title: Integrated Marketing Campaign - [INSERT CAMPAIGN TITLE]
-labels: Integrated Marketing Campaign, epic
+labels: Integrated Marketing Campaign
 assignees: ''
 
 ---
