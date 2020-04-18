@@ -1,5 +1,5 @@
 # CS:
-- [ ] AI Society
+- [x] AI Society
 - [ ] #include
 - [ ] DCSC
 - [ ] Women in Computer Science
