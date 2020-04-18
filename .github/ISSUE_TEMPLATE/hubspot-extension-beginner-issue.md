@@ -14,6 +14,7 @@ assignees: shreyagupta98
   - [ ] Research + add CS Advisors contact info to list *(only one per school)*
   - [ ] Filter out organizations that you just added and download CSV of **CS Advising**
 - [ ] Create a Hubspot account
+  - [ ] Get added to the Bit Project hubspot org (ask manager)
   - [ ] Import CSV of CS Clubs emails into HubSpot
 - [ ] Download Hubspot chrome extension [(follow instructions to change settings)](https://about.bitproject.org/teams/marketing/growth-marketing/airtable-and-hubspot#hubspot)
 - [ ] Locate **CS Advisors email template** in Marketing GitHub repo (marketing repo > email_templates > collegecsadvisors.md)
