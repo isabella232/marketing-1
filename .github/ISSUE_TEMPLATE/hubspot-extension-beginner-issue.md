@@ -16,5 +16,6 @@ assignees: shreyagupta98
 - [ ] Create a Hubspot account
   - [ ] Import CSV of CS Clubs emails into HubSpot
 - [ ] Download Hubspot chrome extension [(follow instructions to change settings)](https://about.bitproject.org/teams/marketing/growth-marketing/airtable-and-hubspot#hubspot)
-- [ ] Locate **CS Advisors email template** in Marketing GitHub repo (ask marketing channel if you can't find it)
+- [ ] Locate **CS Advisors email template** in Marketing GitHub repo (marketing repo > email_templates > collegecsadvisors.md)
 - [ ] Send individual, tailored emails (using template) to all contacts
+- Make sure that you log+track the emails you send for Bit
