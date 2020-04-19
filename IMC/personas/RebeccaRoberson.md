@@ -14,7 +14,7 @@ Statistics
 ## Industry
 Education
 
-## Occuptation
+## Occupation
 Professor
 
 ## Social Networks
@@ -26,17 +26,27 @@ Facebook, LinkedIn
 Email
 
 ## Goals/Objectives
--To be able to get students to apply what they learned and be able to use it in real life
+- To be able to get students to apply what they learned and be able to use it in real life
 
--Be able to enhance student's knowledge about statistics/data analysis
+- Be able to enhance student's knowledge about statistics/data analysis
 
 ## Job responsibilities
--Teach students the basic methods of organizing and graphing data
+- Teach students the basic methods of organizing and graphing data
 
 ## Biggest Challenges
--Not sure if her teaching methods are effective or not
+- Not sure if her teaching methods are effective or not
 
--To make sure that students are confident to what they learned in class and use it in real life
+- To make sure that students are confident to what they learned in class and use it in real life
 
 ## Reports to
-Statistics Department Chair
+- Statistics Department Chair
+- Dean of College of Science/Math?
+
+### Questions to Ask:
+
+- How have you developed your teaching skills over time?
+- I have read some articles saying that a lot of professors tend to make statistics a hard course? What are your thoughts on this and do you think it is true? 
+- With the amount of equations that in statistics, this could steer students away from taking the course; do you think there is a way to solve this?
+- Are there any methods that you have found effective for students to remember the different ways to organize/graph data?
+
+- With the coronavirus taking place right now, have you found it harder to make sure the students understand the different topics taught?
