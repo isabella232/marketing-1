@@ -12,10 +12,13 @@ Founded in September 2019, Bit Project is a student-run organization at UC Davis
 We are recruiting for our marketing team to expand our organization and to be able to reach our goals and missions like collaborating with local businesses, reaching out for sponsorships, as well as partnering with other student organizations across the United States. We are looking for ambitious and driven students eager to gain experience in real-world marketing and to help make Bit Project’s goals a reality.
 
 
-The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! With the efforts of everyone involved, we can implement Bit Project across the nation to fortify technical communities everywhere.
+The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! With the efforts of everyone involved, we can implement Bit Project across the nation to fortify technical communities everywhere. 
 
 
 We strongly encourage you to apply to join our team; use the link below to apply! Link: bitproject.org/join
+
+
+For further information about our organization, check out our website at bitproject.org!
 
 
 # COMPUTER SCIENCE / TECH / ENGINEERING:
