@@ -6,13 +6,17 @@ Hello!
 Bit Project is looking to recruit members for our marketing team! 
 
 
-Bit Project is a student-run organization at UC Davis that is dedicated to developing open-source technical education and building a network of students who can collaborate to make technical education more accessible to all. We work with leading companies like MongoDB, Twitter, and Postman to develop curriculum on a broad range of topics such as Web Development, Data Structures and Algorithms, Machine Learning, and Blockchain, to work towards a future of equitable technical education.
+Founded in September 2019, Bit Project is a student-run organization at UC Davis that is dedicated to developing open-source technical education and building a network of students who can collaborate to make technical education more accessible to all; thereby, preparing students to enter the tech industry. We work with leading companies like MongoDB, Twitter, and Postman to develop curriculum on a broad range of topics such as Web Development, Data Structures and Algorithms, Machine Learning, and Blockchain, to work towards a future of equitable technical education.
 
 
 We are recruiting for our marketing team to expand our organization and to be able to reach our goals and missions like collaborating with local businesses, reaching out for sponsorships, as well as partnering with other student organizations across the United States. We are looking for ambitious and driven students eager to gain experience in real-world marketing and to help make Bit Project’s goals a reality.
 
 
+The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! With the efforts of everyone involved, we can implement Bit Project across the nation to fortify technical communities everywhere.
+
+
 We strongly encourage you to apply to join our team; use the link below to apply! Link: bitproject.org/join
+
 
 # COMPUTER SCIENCE / TECH / ENGINEERING:
 
