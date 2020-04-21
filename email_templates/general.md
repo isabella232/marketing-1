@@ -18,7 +18,7 @@ The Bit community is powered by collaboration. We believe learning is more fun -
 We strongly encourage you to apply to join our team; use the link below to apply! Link: bitproject.org/join 
 
 
-Marketing not for you? We have a variety of open positions within our organization. From Data Science Manager to Content Writer or Illustrator, there is something for everyone. See our attached flyer for more information or our website at bitproject.org!
+Marketing not for you? We have a variety of open positions within our organization. From Data Science Manager to Content Writer or Illustrator, there is something for everyone. See our attached flyers for more information or visit our website at bitproject.org!
 
 
 # COMPUTER SCIENCE / TECH / ENGINEERING:
