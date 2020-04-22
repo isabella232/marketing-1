@@ -33,12 +33,13 @@ Bit Project is a student-run organization at UC Davis that is dedicated to devel
 
 
 We are currently looking for passionate coders and developers to join our Technical Content Development team, students who are eager to gain experience in industry-standard CS projects and to contribute to our open-source technical workshops.
-
-The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! We hope you join us on our journey to empower leaders across the country to build and strengthen technical communities everywhere. 
+ 
 
 We strongly encourage you to apply to join our team; use the link below to apply! Link: bitproject.org/join
 
 Technical Content not for you? We have a variety of open positions within our organization. From Data Science Manager to Content Writer or Illustrator, there is something for everyone. See our attached flyers for more information or visit our website at bitproject.org!
+
+The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! We hope you join us on our journey to empower leaders across the country to build and strengthen technical communities everywhere.
 
 # GENERAL (all other majors):
 
