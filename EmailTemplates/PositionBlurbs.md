@@ -50,7 +50,7 @@ Technical Content not for you? We have a variety of open positions within our or
 
 The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! We hope you join us on our journey to empower leaders across the country to build and strengthen technical communities everywhere.
 
-![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/DevRelFlyer_4.6-06.png
+![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/DevRelFlyer_4.6-06.png)
 
 # GENERAL (all other majors):
 
