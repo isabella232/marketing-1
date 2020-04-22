@@ -31,7 +31,7 @@ We strongly encourage you to apply to join our team; use the link below to apply
 
 Marketing not for you? We have a variety of open positions within our organization. From Data Science Manager to Content Writer or Illustrator, there is something for everyone. See our attached flyers for more information or visit our website at bitproject.org!
 
-![](https://github.com/bitprj/marketing/blob/master/email_templates/growthmarketingflyer_4.5-02.png)
+![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/GrowthMarketingFlyer_4.5-02.png)
 
 
 # COMPUTER SCIENCE / TECH / ENGINEERING:
@@ -50,7 +50,7 @@ Technical Content not for you? We have a variety of open positions within our or
 
 The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! We hope you join us on our journey to empower leaders across the country to build and strengthen technical communities everywhere.
 
-![](https://github.com/bitprj/marketing/blob/master/email_templates/DevrelFlyer_4.6-06.png)
+![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/DevRelFlyer_4.6-06.png
 
 # GENERAL (all other majors):
 
@@ -66,4 +66,4 @@ We strongly encourage you to apply to join our team; use the link below to apply
 
 For further information about our organization, check out our website at bitproject.org. We hope you join us on our journey to empower leaders across the country to build and strengthen technical communities everywhere.
 
-![](https://github.com/bitprj/marketing/blob/master/email_templates/OpenSource_4.20-04.png)
+![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/OpenSource_4.20-04.png)
