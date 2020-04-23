@@ -3,7 +3,7 @@
 - DevRel blurb + flyer
 - General blurb + flyer
 
-# TECHNICAL SOURCER
+## TECHNICAL SOURCER
 
 Hello!
 
@@ -15,7 +15,7 @@ As a Technical Sourcer, your role is to source and hire candidates for open posi
 
 Technical sourcing not for you? We have a variety of open positions within our organization. From Data Science Manager to Content Writer or Illustrator, there is something for everyone. See our attached flyer for more information.
 
-# MARKETING:
+## MARKETING:
 
 Hello!
 
@@ -34,7 +34,7 @@ Marketing not for you? We have a variety of open positions within our organizati
 ![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/GrowthMarketingFlyer_4.5-02.png)
 
 
-# COMPUTER SCIENCE / TECH / ENGINEERING:
+## COMPUTER SCIENCE / TECH / ENGINEERING:
 
 Hello!
 
@@ -52,7 +52,7 @@ The Bit community is powered by collaboration. We believe learning is more fun -
 
 ![](https://github.com/bitprj/marketing/blob/master/EmailTemplates/Flyers/DevRelFlyer_4.6-06.png)
 
-# GENERAL (all other majors):
+## GENERAL (all other majors):
 
 Hello!
 
