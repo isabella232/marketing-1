@@ -1,7 +1,21 @@
 # Contents:
+- Content writer blurb
+- Technical sourcer blurb
 - Marketing blurb + flyer
 - DevRel blurb + flyer
 - General blurb + flyer
+
+## CONTENT WRITER
+
+Hello!
+
+Bit Project is recruiting Technical Sourcers to join our team.
+
+Bit Project is a student-run organization at UC Davis that is dedicated to developing open-source technical education and building a network of students who can collaborate to make technical education more accessible to all; thereby, preparing students to enter the tech industry. We work with leading companies like MongoDB, Twitter, and Postman to develop curriculum on a broad range of topics such as Web Development, Data Structures and Algorithms, Machine Learning, and Blockchain, to work towards a future of equitable technical education.
+
+We are looking for a dedicated Content Writer to create content for blogs, articles, social media, and the organization's website. The Content Writer's responsibilities include evaluating analytics to adjust content as needed, regularly updating the organization's , and promoting Bit Project's blog by pitching articles to various third-party platforms. You should also be able to follow editorial guidelines when creating content. If you are interested in this opportunity, please take a look at the following link for more details! https://www.bitproject.org/positions/technical-sourcer  
+
+Content Writing not for you? We have a variety of open positions within our organization. From Data Science Manager to Growth Marketing Partner Writer or Illustrator, there is something for everyone. See our attached flyer for more information.
 
 ## TECHNICAL SOURCER
 
