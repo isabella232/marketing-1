@@ -1,4 +1,4 @@
-Subject: "Greetings from Bitproject!"
+## Subject: "Greetings from Bitproject!"
 
 Hi ______,
 I am contacting you as a representative of Bit Project (bitproject.org), a 100% student-run organization developing an open source technical education initiative to make tech ed more accessible to all. We develop collaborative, interactive workshops to make learning data science and its applications easier and more intuitive for both students and professors.
