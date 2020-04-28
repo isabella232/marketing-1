@@ -17,7 +17,7 @@ We are looking for a dedicated Content Writer to create content for blogs, artic
 
 The Bit community is powered by collaboration. We believe learning is more fun - and more effective - when we put our heads together! With the efforts of everyone involved, we can implement Bit Project across the nation to fortify technical communities everywhere.
 
-Content Writing not for you? We have a variety of open positions within our organization. From Data Science Manager to Growth Marketing Partner Writer or Illustrator, there is something for everyone. See our attached flyer for more information.
+Content Writing not for you? We have a variety of open positions within our organization. From Data Science Manager to Growth Marketing Partner, Writer or Illustrator, there is something for everyone. See our attached flyer for more information.
 
 ## TECHNICAL SOURCER
 
