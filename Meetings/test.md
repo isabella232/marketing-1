@@ -1,4 +1,4 @@
-# Meeting Name
+# Issue Templates/Workflow Meeting
 
 ## DRI
 - Shreya Gupta
@@ -225,22 +225,13 @@ Please see related issues for details related to their respective purposes - thi
 
 # [Code Deliverable] {{Insert Blog Title}} [Integrated Campaign]
 
-## Content Development Plan
-- [ ] **Choose a Topic**
-- [ ] 
-
-
-I use something, and it helps me — maybe it’s push notifications, maybe it’s Meteor + React Native. If I use something and I think others could also use it, I share that knowledge.
-I’m asked about something. I receive 50+ tech related emails a week. If a question comes up a lot, I write a tutorial about it.
-- [ ] Audience
-
 ## IMC Code Deliverable 
 Fill out the following checklist to close the issue!
 - [ ] Technology Used: {{Insert Tech Here}}
 - [ ] Time Taken on Blog
 - [ ] New Repo on bitprj created for the tutorial 
-- [ ] Starter Code uploaded in starter/
-- [ ] Finished Code uploaded in finished/
+- [ ] Merge Starter Code in starter/
+- [ ] Merged Finished Code in finished/
 - [ ] Upload Finished Code on CodeSandbox
 - [ ] Link CodeSandbox to the Content Development Plan Issue
 - [ ] Check that all code is commented well
