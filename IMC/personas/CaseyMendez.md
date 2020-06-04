@@ -47,3 +47,13 @@ Email, Twitter
 ## Reports to
 - Professors
 - Academic Advisors
+
+# Questions to explore persona/ask in interview:
+- How do you currently feel about the teaching/learning process regarding data science? Rate it 1-5 with a 1 being the worst, and a 5 being the best.
+- How have you developed your learning style over time?
+- Are there changes that need to be made? If so, what kind of changes?
+- In your opinion, what has been the most effective and ineffective method used in learning today? Have you found alternatives to this method?
+- How has your learning method changed since the lockdown? Has it made you rethink some elements in the classroom for the future?
+- Do you think that participating in collaborative workshops is a good way to increase learning efficiency? What about learning outside of school?
+- What features / methods of teaching do you truly wish were implemented into your classroom to boost information retention?
+

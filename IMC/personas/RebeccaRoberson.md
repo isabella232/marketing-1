@@ -42,11 +42,10 @@ Email
 - Statistics Department Chair
 - Dean of College of Science/Math?
 
-### Questions to Ask:
-
+## Questions to Ask:
 - How have you developed your teaching skills over time?
+- Are there some ways that you implement to try to make class more interesting/engaging?
 - I have read some articles saying that a lot of professors tend to make statistics a hard course? What are your thoughts on this and do you think it is true? 
 - With the amount of equations that in statistics, this could steer students away from taking the course; do you think there is a way to solve this?
 - Are there any methods that you have found effective for students to remember the different ways to organize/graph data?
-
 - With the coronavirus taking place right now, have you found it harder to make sure the students understand the different topics taught?

@@ -1,5 +1,5 @@
 ---
-name: Hubspot Beginner Task
+name: ARCHIVE [Hubspot Beginner Task]
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
