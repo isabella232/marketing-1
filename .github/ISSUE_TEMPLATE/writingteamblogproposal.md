@@ -4,17 +4,21 @@
 
 ### Step One
 
-**Title:** 
-{{Insert Title}}
+**Title:**
+
+{Insert Title}
 
 **Topic:**
+
 {Insert topic of the blog, one to two sentences}
 
 **Description:**
+
 {Insert desscription, three+ sentences detailing what your blog is about}
 
 **Target Audience:**
-{Explain who the blog is target towards, including experience level with your topic or information they are interested in}
+
+{Explain who the blog is targeted towards, including experience level with your topic or information they are interested in}
 
 ### Step Two
 
@@ -31,5 +35,5 @@ This can be in bullet points or paragraphs.
   {5-7 sentences/bullets outlining how you will explain the concept, section into parts if needed}
   
   **Conclusion**
-  {2-3 sentences/bullets on what they learned, real-world applications, etc.}
+  {2-3 sentences/bullets on what they learned, further applications, etc.}
   
