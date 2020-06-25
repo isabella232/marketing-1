@@ -1,4 +1,4 @@
-# Outline - "How to Find and Use Technical Resources if You're New to Tech"
+# Outline - "How to Find Coding Resources if You're New to Tech"
 
 ### Step One
 
