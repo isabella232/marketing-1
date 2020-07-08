@@ -1,35 +1,19 @@
-# Outline - "How to Find Coding Resources if You're New to Tech"
+# Outline - "Finding Useful Coding Resources When You've Hit a Wall"
 
 ### Step One
 
 **Title:**
 
-How to Find Coding Resources if You're New to Tech
+Finding Useful Coding Resources When You've Hit a Wall 
 
 **Draft:**
-Why not dip your toes into the world of coding if you have some extra time on your hands? Whether you're bored during summer or want to learn new skills, learning a bit of coding is a great idea. Knowing how to code is invaluable knowledge, not matter what level of mastery you're at. And as a bonus, it gives you the ability to build and create awesome projects with more flair and creativity. 
-  
-**What is coding?**
+Whether you're bored during summer or want to learn new skills, expanding your coding skills is a great idea. Knowing how to program is invaluable knowledge, not matter what level of mastery you're at, and using your free time to continue learning and diving deeper into the world of coding will . And as a bonus, it gives you the ability to build and create awesome projects with a lot more flair and creativity. 
 
-This might seem like a basic question, but if you're brand new to coding, its good to go over the basics! In sum, coding is using programming languages to tell a computer how to behave. As a coder, you're using the computer's language to make it do something. 
-
-This could be as simple as making your font bigger and bolder, or it could be more complicated, like coding a video game. 
-
-**What are some coding languages?**
-
-You've probably already heard of some languages that coders and progammers use in their work: HTML, CSS, Javascript, Python, etc. 
-
-When I was first introduced to coding, I learned HTML and CSS. HTML is sort of like the bare bones of the internet; it displays documents in web browsers. CSS is a stylesheet that affects how HTML is displayed, such as fonts, colors, formats. Essentially, HTML dictates what the content is, and CSS dictates how that content looks.  
-
-These weren't too difficult to learn, and if you're not sure where to start, you can start here  to get a better understanding of coding in general. (Sidenote: HTMl is actually a markup language because it doesn't have any programming logic like other languages.)
-
-But if you really want to become more advanced with coding, languages like Javascript and Python could be more up your alley. Javascript makes web designs more interactive, which engages users more than just HTML and CSS. Python is often used for creating web applications, and it is versatile for both small and big projects. 
-
-Depending on what you want to learn, you might better enjoy learning some languages over others. Take a couple minutes to research and gain a better understanding of what skills you hope to build before diving straight into learning. 
+Here, we'll go over some tips and suggestions on how to 
 
 **Taking coding lessons with freeCodeCamp**
  
- One great place for you to start as a newbie to coding is [freeCodeCamp](https://www.freecodecamp.org/). This nonprofit organization helps users code through hands-on projects and structured, easy-to-manage lessons. 
+One great place for you to start as a newbie to coding is [freeCodeCamp](https://www.freecodecamp.org/). This nonprofit organization helps users code through hands-on projects and structured, easy-to-manage lessons. 
 
 In addition to their learning platform, they also have Youtube videos and can connect you to a community of others who are just as excited about coding as you are. 
 
@@ -47,14 +31,12 @@ Sometimes if you need other examples of coding while you're working on your proj
 
 Here, you can sort through examples they provide in the coding language you are using to see where your code might be causing problems. You can even open the code editor for each example and try playing around to  gain a better understanding of the concept you're trying to grasp. 
 
-They offer lots of examples in many different languages, so hopefuly it can be helpful to you no matter what you're coding in. 
+**The Power of Googling**
 
-**Finding more coding resources**
+The few resources I listed above may get you started on learning coding, but you should know that your list of options doesn't end there. Search engines are your best friends as it's likely you might need some extra assistance while working on your project later on. If you don't always have someone to turn to and ask questions, the internet is always there for you. 
 
-The few resources I listed above may get you started on learning coding, but don't think that your list of options ends there. Search engines are your best friends here. 
+If you are confused about how to code something in particular, detailed walkthroughs in Youtube tutorials could help you out a lot. Or you can find other coding lessons for free from many other sites like [Khanh Academy](https://www.khanacademy.org/computing/computer-programming) that might better suit your learning style. 
 
-You can look up more detailed walkthroughs of coding concepts in Youtube tutorials, or you can find other coding lessons for free in many many other sites like [Khanh Academy](https://www.khanacademy.org/computing/computer-programming). 
+Sometimes you have to get specific with what you're searching for to get faster, better results. If you get can't find what you're looking for right away, it can be be frustrating. But don't give up! The internet gives you plenty of free resources at your fingertips within seconds.
 
-Sometimes you have to get specific with what you're searching to get faster, better results. If you get stuck, it can be be frustrating. But don't give up! The internet gives you plenty of free resources at your fingertips within seconds.
-  
-Now that you know a couple of ways to navigate the internet for coding resources, the possibilites are endless. You can learn as little or as much code as you want, all without paying for expensive classes. Use what you learn to start your own project — perhaps a website or an interactive fiction — and share what you create with others. 
+Now that you know a couple of ways to navigate the internet for coding resources, the possibilites are endless. You can learn as little or as much code as you want, all without paying for expensive classes. Use what you learn to start your own project — perhaps a website, an interactive fiction, an app — and share what you create with others. 
