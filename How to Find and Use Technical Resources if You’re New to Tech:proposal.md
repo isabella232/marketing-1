@@ -1,6 +1,4 @@
-# Draft 2.0 - "Finding Useful Coding Resources When You've Hit a Wall"
-
-### Title: Finding Useful Coding Resources When You've Hit a Wall
+# Draft 3.0 - Finding Useful Coding Resources When You've Hit a Wall
 
 Knowing how to code is invaluable knowledge, no matter what level of mastery you're at. If you want to expand and strengthen your programming skills, awesome! But whether you've just started learning how to program or you've been doing this for years, you've likely run into some obstacles during your coding journey. 
 
