@@ -50,18 +50,15 @@ As you can see in the above photo, there's lots of web development languages you
 
 This site only offers written tutorials, but it's a good reference point when you're coding. With W3Schools, you can actually open examples in their online editor and try playing around with it to better understand how the code works. 
 
-## Video Tutorials and Walkthroughts  
+## Youtube 
 
 Earlier, I said that search engines like Google are your best friends, but that's not 100% accurate. In reality, Google AND Youtube are your best friends. You can look for video tutorials and walkthroughts of all levels where an expert can *show* you how to code and give you an explanation. 
 
 ![](https://i.imgur.com/E3zzaD6.jpg)
 
-For instance, some Bit Project members like to look up tutorials on specific coding projects in their preferred programming languages. Then 
+For instance, some Bit Project members like to look up tutorials on specific coding projects in their preferred programming languages. These types of videos are great for those who like to code along with the tutorial, and if you want, you can add your own unique features to the project along the way. But others, like developer Kathy Liu, prefer to use Youtube tutorials about the theory of programming because they help her understand the concept of code so she can more easily apply what she's learned to future projects later on. 
 
-But others, like developer Kathy Liu, prefer to use Youtube tutorials about the theory of programming because they help her understand the concept of code. This allows her to apply what she's learned to more projects later on. 
-
-Others at Bit Project, however, prefer looking up tutorials on specific coding projects. If you'd rather have this 
-Another way to use Youtube videos is to look up tutorials on specific coding projects. Jayaram said that he likes to "code along [with these types of tutorials] and add some new features" to make it more unique and better suit his goals as a programmer.  
+No matter your preferred learning style, you should be able to easily find helpful Youtube videos online that suit your needs and goals as a progammer. 
 
 ## Online Coding Lessons and Assessments
 
