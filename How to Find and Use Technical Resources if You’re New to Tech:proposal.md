@@ -12,7 +12,7 @@ Search engines are your best friends, and this is the number one way to find res
 
 If you get can't find what you're looking for right away, it can feel pretty frustrating. But it's important to not  give up! 
 
-Julia Ma, content developer, said, "One mistake I see a lot of  beginners make is that they don’t Google. When it comes to a problem that is coding-related — syntax, error, code compiling — always Google before you ask somebody because that’s how you learn the best."
+According to one of Bit Project's developers, Julia Ma, "One mistake I see a lot of  beginners make is that they don’t Google. When it comes to a problem that is coding-related — syntax, error, code compiling — always Google before you ask somebody because that’s how you learn the best."
 
 ![](https://i.imgur.com/LyV2EDk.png)
 
@@ -28,7 +28,7 @@ Every single Bit Project member I have talked to mentioned [Stack Overflow](http
 
 Stack Overflow provides you with a large, detailed library of questions that have been answered by professionals and other seasoned programmers. Everything you find on the site is meant for you to learn from, so don't hesitate to use it.
 
-"Stack Overflow is probably a software engineer's best friend," said Bryan Wong, head of engineering. "Any question you have, someone else is likely to have the exact same question as you. So if I’m really stuck on a problem, Stack Overflow is the way to go."
+"Stack Overflow is probably a software engineer's best friend," said Bryan Wong, director of engineering at Bit Project. "Any question you have, someone else is likely to have the exact same question as you. So if I’m really stuck on a problem, Stack Overflow is the way to go."
 
 ## GeeksforGeeks 
 
@@ -36,9 +36,7 @@ Another frequently mentioned resource was [GeeksforGeeks](https://www.geeksforge
 
 ![](https://i.imgur.com/j6Ke9X1.png)
 
-Atul Jayaram, QA manager, said, "I really like to use GeeksforGeeks when I don’t understand something, even during school when the professor is explaining a concept and I don’t really get it."
-
-Similarly, Ma added that she likes using this site for quick learning, especially for C++ and Python. 
+Many members of Bit Project — like Atul Jayaram, QA manager — pointed to this site as a great resource if you're struggling to conceptualize programming languages. Specifically, they said GeeksforGeeks was a great place to quickly learn about C++ and Python, although there are lots of other tutorials offered by the organization that focus on a range of topics like algorithims, data structures, and numerous other langauges. 
 
 So if you're looking to build a stronger understanding of why code works — not just how it works — GeeksforGeeks can be your go-to. 
 
@@ -58,8 +56,11 @@ Earlier, I said that search engines like Google are your best friends, but that'
 
 ![](https://i.imgur.com/E3zzaD6.jpg)
 
-Developer Kathy Liu likes using Youtube tutorials about the theory of programming. She said, "From the tutorials, you can learn the concepts and the bigger view of that, and then you can apply them to your code."
+For instance, some Bit Project members like to look up tutorials on specific coding projects in their preferred programming languages. Then 
 
+But others, like developer Kathy Liu, prefer to use Youtube tutorials about the theory of programming because they help her understand the concept of code. This allows her to apply what she's learned to more projects later on. 
+
+Others at Bit Project, however, prefer looking up tutorials on specific coding projects. If you'd rather have this 
 Another way to use Youtube videos is to look up tutorials on specific coding projects. Jayaram said that he likes to "code along [with these types of tutorials] and add some new features" to make it more unique and better suit his goals as a programmer.  
 
 ## Online Coding Lessons and Assessments
@@ -70,7 +71,7 @@ On one hand, a place to start if you're a novice programmer is freeCodeCamp. Thi
 
 ![](https://i.imgur.com/lvwpLIA.png)
 
-On the other hand, there are also sites for you if you're more advanced and want more rigorous assessments to practice your skills (perhaps even to prepare you for technical interviews for programming jobs!). Kyle Begovich, director of developer relations, suggests [HackerRank](https://www.hackerrank.com/) or [LeetCode](https://leetcode.com/). These are great resources that can help teach you common practices in the industry and how to approach them. 
+On the other hand, there are also sites for you if you're more advanced and want more rigorous assessments to practice your skills (perhaps even to prepare you for technical interviews for programming jobs!). That's why we would suggest sites like [HackerRank](https://www.hackerrank.com/) or [LeetCode](https://leetcode.com/). These are great resources that can help teach you common practices in the industry and how to approach them. 
 
 ## A Positive Mindset to Coding
 
@@ -80,7 +81,7 @@ However with so much information out there, it's understandable that you as a pr
 
 When you've hit that sort of wall — a mental obstacle, not just a technical bug hindering your code — it can be difficult to find a way to over come it.  
 
-A bit of advice? Begovich says, "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
+A bit of advice? Kyle Begovich, director of developer relations, says, "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
 
 So try to keep up a positive mindset throughout your coding journey. It can be difficult, but dedicating yourself to learning something you're passionate about is worthwhile! 
 
