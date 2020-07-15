@@ -1,42 +1,87 @@
-# Outline - "Finding Useful Coding Resources When You've Hit a Wall"
+# Draft 2.0 - "Finding Useful Coding Resources When You've Hit a Wall"
 
-### Step One
+### Title: Finding Useful Coding Resources When You've Hit a Wall
 
-**Title:**
+Knowing how to code is invaluable knowledge, no matter what level of mastery you're at. If you want to expand and strengthen your programming skills, awesome! But whether you've just started learning how to program or you've been doing this for years, you've likely run into some obstacles during your coding journey. 
 
-Finding Useful Coding Resources When You've Hit a Wall 
+That's why we've compiled a list of tips on finding useful coding resources and some of our favorite coding resources. If you feel like you've hit a wall with your code, we hope you'll finding something that helps you out below! 
 
-**Draft:**
-Whether you're bored during summer or want to learn new skills, expanding your coding skills is a great idea. Knowing how to program is invaluable knowledge, not matter what level of mastery you're at, and using your free time to continue learning and diving deeper into the world of coding will . And as a bonus, it gives you the ability to build and create awesome projects with a lot more flair and creativity. 
+## The Power of Googling
 
-Here, we'll go over some tips and suggestions on how to 
+Search engines are your best friends, and this is the number one way to find resources online. The internet is always there for you, and it gives you plenty of free resources at your fingertips within seconds. 
 
-**Taking coding lessons with freeCodeCamp**
- 
-One great place for you to start as a newbie to coding is [freeCodeCamp](https://www.freecodecamp.org/). This nonprofit organization helps users code through hands-on projects and structured, easy-to-manage lessons. 
+If you get can't find what you're looking for right away, it can feel pretty frustrating. But it's important to not  give up! 
 
-In addition to their learning platform, they also have Youtube videos and can connect you to a community of others who are just as excited about coding as you are. 
+Julia Ma, content developer, said, "One mistake I see a lot of  beginners make is that they don’t Google. When it comes to a problem that is coding-related — syntax, error, code compiling — always Google before you ask somebody because that’s how you learn the best."
 
-If you're feeling particularly ambitious, they offer certification programs too in topics like responsive web design and Javascript algorithims and data structures. 
-  
-**Putting your new coding skills to work**
+![](https://i.imgur.com/LyV2EDk.png)
 
-So you've built up some coding skills. Where do you go from here? Now you can begin cool projects that you get to show off later on. These can be as simple as a website portolio that you code from scratch — maybe in a code editor like [CodePen](https://codepen.io/) — or getting a little more complicated like an app that chooses what you eat for dinner. 
+Sometimes you have to get specific with your search to get faster, better results. For example, you can get creative with what types of resources you look for: walkthroughs, documentation, [blog posts about coding](https://medium.com/topic/programming), etc. Or you can copy and paste the code you're having issues with directly into Google.
 
-Your projects are only limited by your imagination, and even if you're feeling a bit stuck, you can seek out inspiration from others online too. 
+No matter how you do it, Googling is a vital skill that will guide you towards countless of coding resources. 
 
-**Using W3Schools for coding references** 
+## Stack Overflow 
 
-Sometimes if you need other examples of coding while you're working on your project, [W3Schools](https://www.w3schools.com/) is a good place to go.They only offer written tutorials, but it's a good reference point. 
+Every single Bit Project member I have talked to mentioned [Stack Overflow](https://stackoverflow.com/). They all cited this resource as one they always turn to when they run into issues.
 
-Here, you can sort through examples they provide in the coding language you are using to see where your code might be causing problems. You can even open the code editor for each example and try playing around to  gain a better understanding of the concept you're trying to grasp. 
+![](https://i.imgur.com/D1WrwSL.png)
 
-**The Power of Googling**
+Stack Overflow provides you with a large, detailed library of questions that have been answered by professionals and other seasoned programmers. Everything you find on the site is meant for you to learn from, so don't hesitate to use it.
 
-The few resources I listed above may get you started on learning coding, but you should know that your list of options doesn't end there. Search engines are your best friends as it's likely you might need some extra assistance while working on your project later on. If you don't always have someone to turn to and ask questions, the internet is always there for you. 
+"Stack Overflow is probably a software engineer's best friend," said Bryan Wong, head of engineering. "Any question you have, someone else is likely to have the exact same question as you. So if I’m really stuck on a problem, Stack Overflow is the way to go."
 
-If you are confused about how to code something in particular, detailed walkthroughs in Youtube tutorials could help you out a lot. Or you can find other coding lessons for free from many other sites like [Khanh Academy](https://www.khanacademy.org/computing/computer-programming) that might better suit your learning style. 
+## GeeksforGeeks 
 
-Sometimes you have to get specific with what you're searching for to get faster, better results. If you get can't find what you're looking for right away, it can be be frustrating. But don't give up! The internet gives you plenty of free resources at your fingertips within seconds.
+Another frequently mentioned resource was [GeeksforGeeks](https://www.geeksforgeeks.org/). This site, like Stack Overflow, also provides you with lots of detailed explanations on code. But while Stack Overflow is great for looking up answers for specific questions, GeeksforGeeks helps you strengthen your understanding of the concept behind the code.
 
-Now that you know a couple of ways to navigate the internet for coding resources, the possibilites are endless. You can learn as little or as much code as you want, all without paying for expensive classes. Use what you learn to start your own project — perhaps a website, an interactive fiction, an app — and share what you create with others. 
+![](https://i.imgur.com/j6Ke9X1.png)
+
+Atul Jayaram, QA manager, said, "I really like to use GeeksforGeeks when I don’t understand something, even during school when the professor is explaining a concept and I don’t really get it."
+
+Similarly, Ma added that she likes using this site for quick learning, especially for C++ and Python. 
+
+So if you're looking to build a stronger understanding of why code works — not just how it works — GeeksforGeeks can be your go-to. 
+
+## W3Schools
+
+A great place to bookmark if your projects focus on web development is [W3Schools](https://www.w3schools.com/). 
+
+![](https://i.imgur.com/JuXl3KQ.png)
+
+As you can see in the above photo, there's lots of web development languages you can learn: HTML, CSS, JavaScript, Python, ... the list goes on. 
+
+This site only offers written tutorials, but it's a good reference point when you're coding. With W3Schools, you can actually open examples in their online editor and try playing around with it to better understand how the code works. 
+
+## Video Tutorials and Walkthroughts  
+
+Earlier, I said that search engines like Google are your best friends, but that's not 100% accurate. In reality, Google AND Youtube are your best friends. You can look for video tutorials and walkthroughts of all levels where an expert can *show* you how to code and give you an explanation. 
+
+![](https://i.imgur.com/E3zzaD6.jpg)
+
+Devrel developer Kathy Liu likes using Youtube tutorials about the theory of programming. She said, "From the tutorials, you can learn the concepts and the bigger view of that, and then you can apply them to your code."
+
+Another way to use Youtube videos is to look up tutorials on specific coding projects. Jayaram said that he likes to "code along [with these types of tutorials] and add some new features" to make it more unique and better suit his goals as a programmer.  
+
+## Online Coding Lessons and Assessments
+
+If you are looking to learn with more structure, there are plenty of sites dedicated to teaching coders. 
+
+On one hand, a place to start if you're a novice programmer is freeCodeCamp. This nonprofit organization teaches users code through easy-to-manage lessons. They also have Youtube videos and can connect you to a community of others who are just as excited about coding as you are.
+
+![](https://i.imgur.com/lvwpLIA.png)
+
+On the other hand, there are also sites for you if you're more advanced and want more rigorous assessments to practice your skills (perhaps even to prepare you for technical interviews for programming jobs!). Kyle Begovich, director of developer relations, suggests [HackerRank](https://www.hackerrank.com/) or [LeetCode](https://leetcode.com/). These are great resources that can help teach you common practices in the industry and how to approach them. 
+
+## A Positive Mindset to Coding
+
+Now that you know some helpful resources, you can learn as little or as much code as you want. All you have to do is utilize the hundreds of free websites, videos, and documentation that are already out there on the internet. 
+
+However with so much information out there, it's understandable that you as a programmer might feel a bit overwhelmed. Perhaps you might even feel like there's so much to learn that you'll never be good enough as others. 
+
+When you've hit that sort of wall — a mental obstacle, not just a technical bug hindering your code — it can be difficult to find a way to over come it.  
+
+A bit of advice? Begovich says, "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
+
+So try to keep up a positive mindset throughout your coding journey. It can be difficult, but dedicating yourself to learning something you're passionate about is worthwhile! 
+
+After all, with all these available resources, the possibilites for coding projects are endless. Use what you learn to start your own project in your freetime — perhaps a website, an app, etc. Then, share what you create with others to show off how much you've learned and to help other aspiring programmers too.  
