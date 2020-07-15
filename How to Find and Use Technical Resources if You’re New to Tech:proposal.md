@@ -58,7 +58,7 @@ Earlier, I said that search engines like Google are your best friends, but that'
 
 ![](https://i.imgur.com/E3zzaD6.jpg)
 
-Devrel developer Kathy Liu likes using Youtube tutorials about the theory of programming. She said, "From the tutorials, you can learn the concepts and the bigger view of that, and then you can apply them to your code."
+Developer Kathy Liu likes using Youtube tutorials about the theory of programming. She said, "From the tutorials, you can learn the concepts and the bigger view of that, and then you can apply them to your code."
 
 Another way to use Youtube videos is to look up tutorials on specific coding projects. Jayaram said that he likes to "code along [with these types of tutorials] and add some new features" to make it more unique and better suit his goals as a programmer.  
 
