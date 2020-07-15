@@ -60,6 +60,16 @@ For instance, some Bit Project members like to look up tutorials on specific cod
 
 No matter your preferred learning style, you should be able to easily find helpful Youtube videos online that suit your needs and goals as a progammer. 
 
+## Resources with Open Source Code
+
+Finding resources where you can check out open source code will also greatly benefit you if you're looking for help with your code. One resource you can use is GitHub, an open source code repository. Because [GitHub] (https://github.com/open-source) is the largest open source community in the whole world, there's lots of projects available for you to reference (or even possibly contribute to!). 
+
+![](https://i.imgur.com/LLMvG6z.png) 
+
+What's nice about GitHub is that you don't need to be an expert to use it. You can learn a lot just by going through other programmers' code, building off of what's there for you to use for your own experimental projects, or following projects that you find particularly interesting to see how they evolve over time. 
+
+Personally, we here at Bit Project incorporate GitHub into our work-flow because it allows us to collaborate and share ideas with each other, and [we love using open-source software to help educate students about important STEM topics](https://www.bitproject.org/curriculum).  
+
 ## Online Coding Lessons and Assessments
 
 If you are looking to learn with more structure, there are plenty of sites dedicated to teaching coders. 
@@ -78,7 +88,7 @@ However with so much information out there, it's understandable that you as a pr
 
 When you've hit that sort of wall — a mental obstacle, not just a technical bug hindering your code — it can be difficult to find a way to over come it.  
 
-Luckily, Kyle Begovich, director of developer relations, shared this great bit of advice you should keep in mind: "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
+Luckily, Kyle Begovich, Bit Project's director of developer relations, shared this great bit of advice you should keep in mind: "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
 
 So try to keep up a positive mindset throughout your coding journey. It can be difficult, but dedicating yourself to learning something you're passionate about is worthwhile! 
 
