@@ -26,6 +26,8 @@
 
 {List potential people to interview, within or outside of Bit (names aren't necessary, i.e. 'someone from the people team' is fine)}
 
+{Include at least 3 questions you would like to ask during interviews}
+
 ### Step Two
 
 **Outline Blog:**
