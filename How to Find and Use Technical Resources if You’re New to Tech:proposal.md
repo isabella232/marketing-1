@@ -78,7 +78,7 @@ However with so much information out there, it's understandable that you as a pr
 
 When you've hit that sort of wall — a mental obstacle, not just a technical bug hindering your code — it can be difficult to find a way to over come it.  
 
-A bit of advice? Kyle Begovich, director of developer relations, says, "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
+Luckily, Kyle Begovich, director of developer relations, shared this great bit of advice you should keep in mind: "The imposter syndrome is a mistake people [who want to code] make. You come to the conclusion that you don’t belong here, [you] don’t have any original ideas. But if you have figured out this idea is done and this idea done, you can start to figure out that next step. That's where the learning takes place."
 
 So try to keep up a positive mindset throughout your coding journey. It can be difficult, but dedicating yourself to learning something you're passionate about is worthwhile! 
 
