@@ -6,7 +6,7 @@ and/or 2. Set up meeting with Shreya, yourself, and advisor
 ## EMAIL:
 *[Make sure to replace subject, name, year, major, and signature]*
 
-**Subject:** Opportunity for **[UNIVERSITY NAME]** Students to Contribute to Open Source
+**Subject:** Opportunity for University Students to Contribute to Open Source
 
 Hi,
 
